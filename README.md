@@ -12,10 +12,10 @@ The GUI takes a file containing multiple points (latitude, longitude, and descri
 - **Closest Point Finder**: Displays the closest point from the dataset to the user's location.
 - **wxPython GUI**: User-friendly interface with textboxes and buttons for easy interaction.
 
-GeoPoint-Closest-Finder-GUI/
-│
-├── program10.py         # Library with GeoPoint class and utility functions
-├── LastnameP11.py       # Main GUI application using program10 as a library
-├── points.txt           # Example data file containing predefined points
-└── requirements.txt     # List of dependencies (optional)
+## Files 
+
+- program10.py         # Library with GeoPoint class and utility functions
+- LastnameP11.py       # Main GUI application using program10 as a library
+- points.txt           # Example data file containing predefined points
+- requirements.txt     # List of dependencies (optional)
 
